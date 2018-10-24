@@ -6,7 +6,7 @@
 /* ReDoc doesn't change outer page styles */
 body {
     margin: 0;
-    padding: 0;
+    padding: 0; /**ADJUST PADDING
 }
 api-logo {
     background-image: linear-gradient(0deg, #15A4D7 0%, #1488C6 100%);
